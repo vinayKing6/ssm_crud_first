@@ -64,3 +64,26 @@ cd <your tomcat directory>/bin
 
 ​	这也算是第一次做了一个小小的ssm项目，尽管只有一个增删改查的效果，但是仍然能够加深对框架的理解，可以当作一次对ssm的总计，以及作为正真的网站项目的铺垫。总的来说，尽管看了这么多教程，然而琐碎的前端后端知识仍然需要不断的去复习。学无止尽，一起共勉
 
+## 项目效果
+
+### 首次渲染
+
+![Image Text](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/list.png)
+
+### 全选
+
+![全选](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/select.png)
+
+### 插入
+
+![](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/inset.png)
+
+![](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/inset2.png)
+
+![](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/inserted.png)
+
+### 修改
+
+![](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/update.png)
+
+![](https://github.com/vinayKing6/ssm_crud_first/blob/master/IMG/updated.png)
